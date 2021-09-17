@@ -1,3 +1,6 @@
+![hijack](https://user-images.githubusercontent.com/90875279/133707080-676ffa53-d4fb-46fd-bace-b42286b33099.PNG)
+
+
 # doppelganger - Hijacking Windows Dll's with mock directories
 We can use this exploit to trick any Windows application into loading our DLL by replacing the legitimate DLL via mock directories. Traditionally, DLL hijacking would be achieved when discovering a vulnerable Windows application. With doppelganger, any and all Windows applications are vulnerable.
 # Mock Directories
