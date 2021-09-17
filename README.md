@@ -1,5 +1,5 @@
 # doppelganger
-Hijacking Windows Dll's with mock directories
+- Hijacking Windows Dll's with mock directories
 
 - With this, you will be able to use windows applications to load or Inject your DLL into an existing process
 
