@@ -9,3 +9,5 @@ We can archive our Mock Directory via PowerShell =>
 ![ps](https://user-images.githubusercontent.com/90875279/133706862-3bd7577e-ccdb-44fe-b5c6-e70b2e2c2281.PNG)
 
 Do you notice the trailing space between Windows and System32? This is how our Mock Directory is created. You should now see a duplicate Windows folder =>
+
+![winfolder](https://user-images.githubusercontent.com/90875279/133707246-009d988e-7164-4726-b523-ecc18de0df67.PNG)
