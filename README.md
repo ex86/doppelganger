@@ -8,3 +8,5 @@ We can archive our Mock Directory via PowerShell =>
 Do you notice the trailing space between Windows and System32? This is how our Mock Directory is created. You should now see a duplicate Windows folder =>
 
 ![winfolder](https://user-images.githubusercontent.com/90875279/133707246-009d988e-7164-4726-b523-ecc18de0df67.PNG)
+
+Now, navigate to our new System32 folder. It should be empty.
