@@ -13,6 +13,7 @@ Now, navigate to our new System32 folder. Copy & Paste your desired application 
 
 Rename your DLL to WordpadFilter.dll and replace it with the legitmate WordpadFilter.dll in the folder.
 
+![hijack](https://user-images.githubusercontent.com/90875279/133709434-dbfb845d-05c0-4ffa-8c84-c64731276700.PNG)
+
 Now, once we open WordPad it will load our DLL. In this example, I am using WordPad to inject my DLL into notepad.
 
-![hijack](https://user-images.githubusercontent.com/90875279/133709434-dbfb845d-05c0-4ffa-8c84-c64731276700.PNG)
