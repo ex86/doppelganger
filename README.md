@@ -11,4 +11,4 @@ Do you notice the trailing space between Windows and System32? This is how our M
 
 Now, navigate to our new System32 folder. Copy & Paste your desired application along with your application DLL in the folder. In this example, I am using WordPad and WordpadFilter.dll
 
-Rename your DLL to WordpadFilter.dll and replace it in the folder.
+Rename your DLL to WordpadFilter.dll and replace it with the legitmate WordpadFilter.dll in the folder.
